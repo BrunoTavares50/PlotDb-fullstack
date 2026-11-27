@@ -1,4 +1,4 @@
 export interface Genero {
     idGenero: string;
-    nome: string;
+    genero1: string;
 }

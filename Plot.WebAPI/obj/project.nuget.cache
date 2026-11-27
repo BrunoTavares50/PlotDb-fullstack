@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlTRQs8Lm/s=",
+  "dgSpecHash": "X6QI/VK13V0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\54166966804\\Desktop\\PlotExercicio\\Plot.WebAPI\\Plot.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\54166966804\\Desktop\\Plojeto Plot React\\Plot.WebAPI\\Plot.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54166966804\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\54166966804\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
